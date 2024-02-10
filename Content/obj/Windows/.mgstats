@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/usr/source/repos/WallBreaker/Content/ball.png","C:/Users/usr/source/repos/WallBreaker/Content/bin/Windows/ball.xnb","TextureProcessor","Texture2DContent",464,1109,0.0856616
+"C:/Users/usr/source/repos/WallBreaker/Content/line.png","C:/Users/usr/source/repos/WallBreaker/Content/bin/Windows/line.xnb","TextureProcessor","Texture2DContent",4169,10725,0.0017518
+"C:/Users/usr/source/repos/WallBreaker/Content/wall.png","C:/Users/usr/source/repos/WallBreaker/Content/bin/Windows/wall.xnb","TextureProcessor","Texture2DContent",567,14085,0.0016303
