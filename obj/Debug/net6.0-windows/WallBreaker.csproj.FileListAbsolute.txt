@@ -40,3 +40,4 @@ C:\Users\usr\source\repos\WallBreaker\bin\Debug\net6.0-windows\Content\line.xnb
 C:\Users\usr\source\repos\WallBreaker\bin\Debug\net6.0-windows\Content\wall.xnb
 C:\Users\usr\source\repos\WallBreaker\bin\Debug\net6.0-windows\Content\lose.xnb
 C:\Users\usr\source\repos\WallBreaker\bin\Debug\net6.0-windows\Content\win.xnb
+C:\Users\usr\source\repos\WallBreaker\obj\Debug\net6.0-windows\WallBreaker.sourcelink.json
